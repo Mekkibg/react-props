@@ -1,0 +1,10 @@
+.profil{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin-top: 2%;
+}
+.btnProfil{
+    width: 100px;
+    align-self: center;
+}
